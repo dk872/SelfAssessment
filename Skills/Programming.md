@@ -4,21 +4,21 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
+  - Algorithm: 👂 heard
   - Syntax
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm: 👂 heard
   - Programming paradigm
   - Programming language
   - Contract
   - Module
   - Library
   - Package
-  - Component
-  - Framework
-  - Platform
+  - Component: 👂 heard
+  - Framework: 👂 heard
+  - Platform: 👂 heard
   - Source code
   - Object code
   - Machine code
@@ -32,27 +32,27 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
+  - Value: 👂 heard
+  - Identifier: 👂 heard
+  - Variable: 👂 heard
+  - Constant: 👂 heard
+  - Scalar: 👂 heard
   - Literal
-  - Expression
+  - Expression: 👂 heard
   - Heap
-  - Function
+  - Function: 👂 heard
   - Procedure
-  - Method
-  - Class
-  - Prototype
+  - Method: 👂 heard
+  - Class: 👂 heard
+  - Prototype: 👂 heard
   - Event
-  - Type
+  - Type: 👂 heard
   - Flag
   - Lexical scope
   - Code block
   - Conditions
-  - Loops
-  - Assignment
+  - Loops: 👂 heard
+  - Assignment: 👂 heard
   - Regular expression
   - Interface
   - Namespaces
@@ -66,7 +66,7 @@
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types: 👂 heard
   - Reference types
   - Type systems
   - Strong typing
@@ -82,8 +82,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument: 👂 heard
+  - Parameter: 👂 heard
   - Pure function
   - Lambda expression
   - Side effects
@@ -105,12 +105,12 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array: 👂 heard
   - Structure
   - Record
   - Enum
   - Instance
-  - Cbject
+  - Cbject: 👂 heard
   - Collection
   - Set
   - Hash table
@@ -121,7 +121,7 @@
   - Queue
   - Stack
   - Deque
-  - Tree
+  - Tree: 👂 heard
   - Graph
   - Iterator
   - Mutable state
@@ -138,7 +138,7 @@
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL: 👂 heard
   - URN
   - URI
 - Process and tools
@@ -214,13 +214,13 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux: 👂 heard
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS: 👂 heard
+  - Windows: 👂 heard
   - Real-time OS
-  - Embedded OS
+  - Embedded OS: 👂 heard
 - Standards
   - ASCII
   - Escape sequence
