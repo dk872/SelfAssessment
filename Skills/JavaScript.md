@@ -1,17 +1,17 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
+  - `Object`: 👂 heard
+  - `Function`: 👂 heard
   - `Boolean`
-  - `Number`
+  - `Number`: 👂 heard
   - `BigInt`
   - `String`
   - `Symbol`
   - `Infinity`
   - `NaN`
-  - `undefined`
-  - `null`
+  - `undefined`: 👂 heard
+  - `null`: 👂 heard
   - `this`
   - `instanceof`
   - `...spread`
@@ -19,7 +19,7 @@
   - `typeof`
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators: 👂 heard
   - Async generator
   - Async iterator
   - Chaining
@@ -31,11 +31,11 @@
   - `window`
   - Getters and setters
   - `__proto__`
-  - `prototype`
-  - Equality operators
-  - Logical operators
+  - `prototype`: 👂 heard
+  - Equality operators: 👂 heard
+  - Logical operators: 👂 heard
   - Logical Assignment
-  - Bitwise operators
+  - Bitwise operators: 👂 heard
   - Ternary operator
   - `void`
   - `yield`
@@ -59,29 +59,29 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
+  - `if`: 👂 heard
+  - `while`: 👂 heard
+  - `do..while`: 👂 heard
+  - `for`: 👂 heard
   - `for..in`
   - `for..of`
   - `for await`
   - `throw`
-  - `break`
-  - `continue`
+  - `break`: 👂 heard
+  - `continue`: 👂 heard
   - `import`
   - `export`
   - `label`
   - `try..catch`
   - `switch`
-  - `class`
+  - `class`: 👂 heard
   - `extends`
   - `with`
   - `new`
 - Functions
   - Arrow function
   - Async function
-  - Function declaration
+  - Function declaration: 👂 heard
   - Function expression
   - Default parameters
   - Functional object
@@ -90,7 +90,7 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
+  - `Array`: 👂 heard
   - `Map`
   - `Set`
   - Weak collections
@@ -114,7 +114,7 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js: 👂 heard
   - npm
   - prettier
   - MDN
