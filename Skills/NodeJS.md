@@ -67,23 +67,23 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S): 👂 heard
-  - TCP/SSL
-  - UDP
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
+  - UDP: 🎓 known
   - TLS
-  - Websocket: 👂 heard
+  - Websocket: 🖐️ used
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST
   - RPC
-  - Routing
+  - Routing: 🎓 known
   - DoS: 👂 heard
   - DDoS: 👂 heard
   - XSS: 👂 heard
   - Path traversal
   - CSRF
-  - DNS: 👂 heard
+  - DNS: 🎓 known
   - SQL injection
   - noDelay
   - keep-alive
