@@ -9,8 +9,8 @@
   - `String`: 🖐️ used
   - `Symbol`: 🖐️ used
   - `Infinity`: 🎓 known
-  - `NaN`: 🎓 known
-  - `undefined`: 🎓 known
+  - `NaN`: 🖐️ used
+  - `undefined`: 🖐️ used
   - `null`: 🎓 known
   - `this`: 🎓 known
   - `instanceof`: 👂 heard
@@ -38,18 +38,18 @@
   - Bitwise operators: 🖐️ used
   - Ternary operator: 🎓 known
   - `void`: 🎓 known
-  - `yield`
-  - `await`: 👂 heard
+  - `yield`: 👂 heard
+  - `await`: 🎓 known
   - Template literal
-  - Strict mode: 🎓 known
+  - Strict mode: 🖐️ used
   - Hoisting
   - `delete`: 🎓 known
   - `in`: 🎓 known
   - `super`
   - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `static`: 👂 heard
+  - `Number.parseInt`: 👂 heard
+  - `Number.parseFloat`: 👂 heard
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -74,7 +74,7 @@
   - `label`: 👂 heard
   - `try..catch`: 🎓 known
   - `switch`: 🖐️ used
-  - `class`: 🎓 known
+  - `class`: 🖐️ used
   - `extends`: 👂 heard
   - `with`: 👂 heard
   - `new`: 🎓 known
@@ -85,37 +85,37 @@
   - Function expression: 🖐️ used
   - Default parameters: 🎓 known
   - Functional object
-  - `Function.prototype.call`
+  - `Function.prototype.call`: 👂 heard
   - `Function.prototype.bind`
   - `Function.prototype.apply`
   - `return`: 🖐️ used
 - Data structures
   - `Array`: 🖐️ used
   - `Map`: 🎓 known
-  - `Set`: 🎓 known
+  - `Set`: 🖐️ used
   - Weak collections: 🎓 known
   - Typed arrays: 👂 heard
   - Mixins: 👂 heard
   - `Object.assign`
 - Standard classes and namespaces
-  - `Proxy`
+  - `Proxy`: 👂 heard
   - `RegExp`
   - `Date`: 👂 heard
   - `Math`: 👂 heard
   - `Reflect`
-  - `Error`: 👂 heard
+  - `Error`: 🎓 known
   - `Atomics`
   - `JSON`: 👂 heard
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`: 👂 heard
-  - `console`: 👂 heard
+  - `Promise`: 🎓 known
+  - `console`: 🎓 known
   - Timers: 🎓 known
 - Infrastructure
   - V8: 👂 heard
   - Node.js: 🖐️ used
   - npm: 🖐️ used
-  - prettier: 👂 heard
+  - prettier: 🎓 known
   - MDN
   - TC39
