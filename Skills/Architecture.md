@@ -1,7 +1,7 @@
 ## Architecture
 
 - Application structure
-  - Modularity
+  - Modularity: 👂 heard
   - Components: 👂 heard
   - Directories
   - GRASP
@@ -45,7 +45,7 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
+  - UML: 👂 heard
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
