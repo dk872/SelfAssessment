@@ -2,9 +2,9 @@
 
 - Theory
   - Event loop
-  - `try..catch`: 👂 heard
+  - `try..catch`: 🎓 known
   - Non-blocking
-  - Async I/O
+  - Async I/O: 👂 heard
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -22,11 +22,11 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks: 👂 heard
+  - Callbacks: 🎓 known
   - Callback-last-error-first
   - Thenable
-  - Promise: 👂 heard
-  - Async/await: 👂 heard
+  - Promise: 🎓 known
+  - Async/await: 🎓 known
   - Future
   - Deferred
   - Sync generator

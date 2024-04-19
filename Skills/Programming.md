@@ -6,7 +6,7 @@
   - Subject domain: 👂 heard
   - Algorithm: 🖐️ used
   - Syntax: 🖐️ used
-  - Semantics
+  - Semantics: 👂 heard
   - Abstraction: 👂 heard
   - Paradigm: 👂 heard
   - Programm: 🖐️ used
@@ -14,7 +14,7 @@
   - Programming language: 🖐️ used
   - Contract
   - Module: 👂 heard
-  - Library: 👂 heard
+  - Library: 🖐️ used
   - Package: 👂 heard
   - Component: 🎓 known
   - Framework: 👂 heard
@@ -60,8 +60,8 @@
   - Naming conventions: 🖐️ used
   - Coding conventions: 🎓 known
   - Camel case: 🖐️ used
-  - Snake case: 👂 heard
-  - Kebab case: 👂 heard
+  - Snake case: 🖐️ used
+  - Kebab case: 🖐️ used
   - Trailing commas: 👂 heard
   - Return early
   - Fail-fast
@@ -69,7 +69,7 @@
   - Primitive types: 🖐️ used
   - Reference types: 👂 heard
   - Type systems: 👂 heard
-  - Strong typing
+  - Strong typing: 🎓 known
   - Weak typeing: 👂 heard
   - Duck typing: 👂 heard
   - Static typing: 👂 heard
@@ -77,7 +77,7 @@
   - Nominal typing
   - Structural typing
   - Explicit typing
-  - Type inference
+  - Type inference: 👂 heard
   - Covariance
   - Contravariance
 - Functions
@@ -91,7 +91,7 @@
   - Partial application
   - Currying
   - Higher order: 👂 heard
-  - Recursion: 🎓 known
+  - Recursion: 🖐️ used
   - Tail call optimisation
   - Callback: 🎓 known
   - Listener
@@ -119,10 +119,10 @@
   - Unrolled list
   - Circular list
   - Queue
-  - Stack: 👂 heard
-  - Deque
-  - Tree: 👂 heard
-  - Graph: 👂 heard
+  - Stack: 🖐️ used
+  - Deque: 🖐️ used
+  - Tree: 🖐️ used
+  - Graph: 🖐️ used
   - Iterator: 👂 heard
   - Mutable state
   - Immutable state
@@ -132,13 +132,13 @@
   - JSON5
   - YAML
 - Networking
-  - DNS: 👂 heard
+  - DNS: 🎓 known
   - CDN
   - CORS
-  - IPv4: 👂 heard
-  - IPv6: 👂 heard
-  - NAT
-  - URL: 👂 heard
+  - IPv4: 🖐️ used
+  - IPv6: 🖐️ used
+  - NAT: 🖐️ used
+  - URL: 🎓 known
   - URN
   - URI
 - Process and tools
@@ -152,7 +152,7 @@
   - Linker
   - Dynamic linking: 👂 heard
   - Static linking: 👂 heard
-  - Runtime
+  - Runtime: 👂 heard
   - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
@@ -179,7 +179,7 @@
   - Accidental complexity
   - Action at a distance
   - Spaghetti: 🎓 known
-  - Silver bullet
+  - Silver bullet: 🎓 known
   - Not invented here
   - Dead code: 🎓 known
   - Unreachable code: 🎓 known
@@ -193,10 +193,10 @@
   - Too many parameters: 🎓 known
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
-  - Temporary field
+  - Use switch/case: 🎓 known
+  - Temporary field: 🎓 known
   - Handle object as instances and hashes at the same time
-  - Use fields instead of arguments
+  - Use fields instead of arguments: 🎓 known
   - Data clump
   - Feature envy
   - Monkey patch
