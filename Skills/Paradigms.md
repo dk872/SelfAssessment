@@ -5,7 +5,7 @@
   - Imperative programming
   - Structured programming: 👂 heard
   - Non-structured programming: 👂 heard
-  - Functional programming
+  - Functional programming: 👂 heard
   - Prototype-based programming
   - Object-oriented programming: 👂 heard
   - Object-based programming
@@ -29,9 +29,9 @@
 - OOP basics
   - Constructor: 👂 heard
   - Operator `new`: 👂 heard
-  - Static method
+  - Static method: 👂 heard
   - Method: 👂 heard
-  - Async method
+  - Async method: 👂 heard
   - Getters, Setters: 👂 heard
   - Public fields
   - Private fields
