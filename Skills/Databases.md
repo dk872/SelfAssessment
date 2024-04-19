@@ -71,8 +71,8 @@
   - `EXPLAIN`
 - Engines
   - PostgreSQL
-  - Oracle
-  - MySQL
+  - Oracle: 👂 heard
+  - MySQL: 👂 heard
   - MariaDB
   - MS SQL Server
   - Redis
@@ -87,8 +87,8 @@
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
+  - Big data: 👂 heard
   - Data analysis: 👂 heard
   - AI tools: 👂 heard
-  - Cloud databses
-  - Data Visualization
+  - Cloud databses: 👂 heard
+  - Data Visualization: 👂 heard
