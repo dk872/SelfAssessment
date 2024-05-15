@@ -11,20 +11,20 @@
   - `Infinity`: 🎓 known
   - `NaN`: 🖐️ used
   - `undefined`: 🖐️ used
-  - `null`: 🎓 known
-  - `this`: 🎓 known
-  - `instanceof`: 👂 heard
+  - `null`: 🖐️ used
+  - `this`: 🖐️ used
+  - `instanceof`: 🎓 known
   - `...spread`: 🎓 known
   - `...rest`: 🎓 known
   - `typeof`: 🖐️ used
-  - Destructuring: 👂 heard
+  - Destructuring: 🎓 known
   - Generators: 👂 heard
   - Iterators: 👂 heard
   - Async generator: 👂 heard
   - Async iterator: 👂 heard
   - Chaining: 👂 heard
-  - Optional chaining
-  - IIFE
+  - Optional chaining: 👂 heard
+  - IIFE: 🖐️ used
   - Async IIFE
   - `global`: 🎓 known
   - `globalThis`: 🎓 known
@@ -36,11 +36,11 @@
   - Logical operators: 🖐️ used
   - Logical Assignment: 🖐️ used
   - Bitwise operators: 🖐️ used
-  - Ternary operator: 🎓 known
+  - Ternary operator: 🖐️ used
   - `void`: 🎓 known
   - `yield`: 👂 heard
   - `await`: 🎓 known
-  - Template literal
+  - Template literal: 🖐️ used
   - Strict mode: 🖐️ used
   - Hoisting
   - `delete`: 🎓 known
@@ -77,7 +77,7 @@
   - `class`: 🖐️ used
   - `extends`: 👂 heard
   - `with`: 👂 heard
-  - `new`: 🎓 known
+  - `new`: 🖐️ used
 - Functions
   - Arrow function: 🖐️ used
   - Async function: 👂 heard
@@ -96,7 +96,7 @@
   - Weak collections: 🎓 known
   - Typed arrays: 👂 heard
   - Mixins: 👂 heard
-  - `Object.assign`
+  - `Object.assign`: 🎓 known
 - Standard classes and namespaces
   - `Proxy`: 👂 heard
   - `RegExp`
@@ -110,12 +110,12 @@
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`: 🎓 known
-  - `console`: 🎓 known
+  - `console`: 🖐️ used
   - Timers: 🎓 known
 - Infrastructure
   - V8: 👂 heard
   - Node.js: 🖐️ used
   - npm: 🖐️ used
-  - prettier: 🎓 known
+  - prettier: 🖐️ used
   - MDN
   - TC39
