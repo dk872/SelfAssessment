@@ -43,7 +43,7 @@
   - Function: 🖐️ used
   - Procedure: 👂 heard
   - Method: 🖐️ used
-  - Class: 🎓 known
+  - Class: 🖐️ used
   - Prototype: 🎓 known
   - Event: 👂 heard
   - Type: 🖐️ used
@@ -118,7 +118,7 @@
   - Doubly list: 👂 heard
   - Unrolled list
   - Circular list
-  - Queue
+  - Queue: 🖐️ used
   - Stack: 🖐️ used
   - Deque: 🖐️ used
   - Tree: 🖐️ used
