@@ -18,8 +18,8 @@
   - Live locks
   - Concurrent programming
   - Parallel programming: 👂 heard
-  - Actor Model
-  - Thread
+  - Actor Model: 👂 heard
+  - Thread: 👂 heard
   - Process
 - Async contracts
   - Callbacks: 🎓 known

@@ -21,7 +21,7 @@
   - Reliability: 👂 heard
   - Quality: 👂 heard
   - Availability: 👂 heard
-  - Flexibility
+  - Flexibility: 👂 heard
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
